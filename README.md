@@ -160,4 +160,4 @@ print(a) #4.0
 b = 5+(3-2)*4/2
 print(b) #7.0
 ```
-![รูปภาพ](https://github.com/phonsudanan/Python-For-Beginner/blob/main/Operator.jpg?raw=true.jpg)
+![alt text](Operator.jpg)
